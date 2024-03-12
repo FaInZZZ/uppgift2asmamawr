@@ -5,4 +5,8 @@ Epost: kevinbrandt@axxell.fi
 
 användare på github: lehtinn
 namn: Linus Lehtinen
-Epost: linuslehtinen@axxell.fiz
+Epost: linuslehtinen@axxell.fi
+
+användare på github: shturmane
+namn: Harald Sjöblom
+Epost: haraldsjoblom@axxell.fi
